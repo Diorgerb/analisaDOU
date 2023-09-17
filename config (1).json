@@ -1,0 +1,7 @@
+{
+  "SECOES": ["DO1", "DO2", "DO3", "DO1E", "DO2E", "DO3E"],
+  "URL_LOGIN": "https://inlabs.in.gov.br/logar.php",
+  "URL_DOWNLOAD": "https://inlabs.in.gov.br/index.php?p=",
+  "DOWNLOAD_FOLDER": "/content/.temp/download",
+  "UNZIP_FOLDER": "/content/.temp/unziped"
+}

@@ -1,6 +1,5 @@
 
-## DOU Extractor
-
+## analsinaDOY
 ## Descrição
 
 O DOU Extractor é um utilitário Python para extrair dados do Diário Oficial da União (DOU) utilizando o serviço do Inlabs.
@@ -21,8 +20,8 @@ Você também precisará ter uma conta válida no [Inlabs](https://inlabs.in.gov
 
 1. Clone este repositório:
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+      git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
    ```
 
@@ -30,11 +29,9 @@ Você também precisará ter uma conta válida no [Inlabs](https://inlabs.in.gov
 
 3. Execute o código Python:
 
-   ```bash
+   ```
    python main.py
    ```
-
-4. Siga as instruções para fornecer seu e-mail e senha do Inlabs quando solicitado.
 
 ### Resultados
 

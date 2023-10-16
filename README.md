@@ -1,13 +1,11 @@
 
-```markdown
-# DOU Extractor
+## DOU Extractor
 
 ## Descrição
 
 O DOU Extractor é um utilitário Python para extrair dados do Diário Oficial da União (DOU) utilizando o serviço do Inlabs.
 
 ## Como Usar
-
 ### Pré-requisitos
 
 Certifique-se de ter as seguintes bibliotecas instaladas:

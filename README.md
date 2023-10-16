@@ -1,5 +1,5 @@
 
-## analsinaDOY
+## analisaDOY
 ## Descrição
 
 O DOU Extractor é um utilitário Python para extrair dados do Diário Oficial da União (DOU) utilizando o serviço do Inlabs.

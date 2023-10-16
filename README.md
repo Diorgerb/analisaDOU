@@ -25,7 +25,7 @@ Você também precisará ter uma conta válida no [Inlabs](https://inlabs.in.gov
    cd seu-repositorio
    ```
 
-2. Edite o arquivo `config.json` com as informações necessárias, como URLs e diretórios de download, de acordo com o ambiente em que você está executando o código.
+2. Edite o arquivo `config.json` e `config.py` com as informações necessárias, como URLs, login e diretórios de download, de acordo com o ambiente em que você está executando o código.
 
 3. Execute o código Python:
 
